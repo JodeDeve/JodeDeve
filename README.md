@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jode Izryl ==================================================================================================================================  Junior Web Designer/Developer -----------------------------  Since I was 14years old I've always wanted to become a programmer and become a successful one someday, I started with HTML then after learning it for a month I then went to CSS which also took me a month and now I'm currently learning Javascript  * 🌍  I'm based in Albay, Legazpi City * 🧠  I'm learning javascript, C# and react
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jode Izryl
+
+==================================================================================================================================  Junior Web Designer/Developer ----------------------------- 
+
+Since I was 14years old I've always wanted to become a programmer and become a successful one someday, I started with HTML then after learning it for a month I then went to CSS which also took me a month and now I'm currently learning Javascript  * 🌍  I'm based in Albay, Legazpi City * 🧠  I'm learning javascript, C# and react
 
 ### Skills  
 
