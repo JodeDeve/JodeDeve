@@ -3,7 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 junior Web Designer/Developer
 ----------------------------- 
 
-Since I was 14years old I've always wanted to become a programmer and become a successful one someday, I started with HTML then after learning it for a month I then went to CSS which also took me a month and now I'm currently learning Javascript  * 🌍  I'm based in Albay, Legazpi City * 🧠  I'm learning javascript, C# and react
+Since I was 14years old I've always wanted to become a programmer and become a successful one someday, I started with HTML then after learning it for a month I then went to CSS which also took me a month and now I'm currently learning Javascript 
+
+* 🌍  I'm based in Albay, Legazpi City
+* 🧠  I'm learning javascript, C# and react
 
 ### Skills  
 
