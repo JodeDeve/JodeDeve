@@ -5,7 +5,7 @@ My name is Jode Izryl
 junior Web Designer/Developer
 ----------------------------- 
 
-Since I was 14years old I've always wanted to become a programmer and become a successful one someday, I started with HTML then after learning it for a month I then went to CSS which also took me a month and now I'm currently learning Javascript 
+Since I was 14 years old, I have wanted to become a programmer and build a successful career in technology. I started with HTML and learned it in about a month. Then, I moved on to CSS, which also took me one month to learn. After that, I began studying JavaScript to make my websites more interactive. Now, I am learning React and working on more advanced projects. Step by step, I am improving my skills and getting closer to my dream.
 
 * 🌍  I'm based in Albay, Legazpi City
 * 🧠  I'm learning javascript, C# and react
