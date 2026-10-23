@@ -7,8 +7,8 @@ junior Web Designer/Developer
 
 
 
-* 🌍  I'm based in Albay, Legazpi City
-* 🧠  I'm learning javascript, C# and react
+* I'm based in Albay, Legazpi City
+* I'm learning javascript, C# and react
 
 ### Skills  
 
